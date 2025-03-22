@@ -110,4 +110,4 @@ df_filtered.sample(10) # print the first 10 random rows of the processed DataFra
 ```
 
 ### Insights
-Key insights drawn from the analysis revealed that customers from **Australia** had the highest mean value of "47", and also, the highest maximum Total Purchases of **47** value. The most common Loyalty Score across countries was **3**.
+Key insights drawn from the analysis revealed that customers from **Australia** had the highest mean value of **47**, and also, the highest maximum Total Purchases of **47** value. The most common Loyalty Score across countries was **3**, this implies that a great number of the customers across diverse countries had more than 20 Total Purchases.
